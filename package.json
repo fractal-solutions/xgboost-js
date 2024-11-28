@@ -1,0 +1,27 @@
+{
+  "name": "@fractal-solutions/xgboost-js",
+  "version": "1.0.0",
+  "description": "A pure JavaScript implementation of XGBoost for both Node.js and browser environments",
+  "main": "src/xgboost.js",
+  "scripts": {
+    "test": "node src/xgboosttest.js"
+  },
+  "keywords": [
+    "xgboost",
+    "machine-learning",
+    "gradient-boosting",
+    "ml",
+    "classification",
+    "regression"
+  ],
+  "author": "Fractal Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractal-solutions/xgboost-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fractal-solutions/xgboost-js/issues"
+  },
+  "homepage": "https://github.com/fractal-solutions/xgboost-js#readme"
+} 
