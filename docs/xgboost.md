@@ -4,7 +4,6 @@
 
 XGBoost.js is my JavaScript version of the XGBoost algorithm. It handles classification and regression tasks, letting you train models and make predictions directly in your JavaScript projects, whether on the server or in the browser.
 
-```
 
 ## Table of Contents
 

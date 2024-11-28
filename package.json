@@ -1,7 +1,7 @@
 {
   "name": "@fractal-solutions/xgboost-js",
-  "version": "1.0.0",
-  "description": "A pure JavaScript implementation of XGBoost for both Node.js and browser environments",
+  "version": "1.0.1",
+  "description": "A pure JavaScript implementation of XGBoost for Node.js, Bun, Deno and browser environments",
   "main": "src/xgboost.js",
   "scripts": {
     "test": "node src/xgboosttest.js"
