@@ -1,4 +1,4 @@
-# @fractal-solutions/xgboost-js
+# xgboost-js
 
 A pure JavaScript implementation of XGBoost for both Node.js and browser environments.
 
