@@ -1,11 +1,17 @@
 {
   "name": "@fractal-solutions/xgboost-js",
   "version": "1.0.1",
-  "description": "A pure JavaScript implementation of XGBoost for Node.js, Bun, Deno and browser environments",
-  "main": "src/xgboost.js",
-  "scripts": {
-    "test": "node src/xgboosttest.js"
+  "author": "Fractal Solutions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractal-solutions/xgboost-js.git"
   },
+  "main": "src/xgboost.js",
+  "bugs": {
+    "url": "https://github.com/fractal-solutions/xgboost-js/issues"
+  },
+  "description": "A pure JavaScript implementation of XGBoost for Node.js, Bun, Deno and browser environments",
+  "homepage": "https://github.com/fractal-solutions/xgboost-js#readme",
   "keywords": [
     "xgboost",
     "machine-learning",
@@ -14,14 +20,8 @@
     "classification",
     "regression"
   ],
-  "author": "Fractal Solutions",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fractal-solutions/xgboost-js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/fractal-solutions/xgboost-js/issues"
-  },
-  "homepage": "https://github.com/fractal-solutions/xgboost-js#readme"
-} 
+  "scripts": {
+    "test": "node src/xgboosttest.js"
+  }
+}
