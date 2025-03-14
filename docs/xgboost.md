@@ -23,7 +23,19 @@ XGBoost.js is my JavaScript version of the XGBoost algorithm. It handles classif
 
 ## Installation
 
-Ensure you have [Node.js](https://nodejs.org/) installed. Clone or download the repository and include the `xgboost.js` module in your project:
+Ensure you have [Node.js](https://nodejs.org/) or [Bun](https://bun.sh/) installed. Install the library with a package manager:
+
+nodejs:
+```bash
+npm install @fractal-solutions/xgboost-js
+```
+
+bun:
+```bash
+bun add @fractal-solutions/xgboost-js
+```
+
+You can clone or download the repository and include the `xgboost.js` module in your project:
 
 ```javascript
 const { XGBoost } = require('./xgboost.js');
